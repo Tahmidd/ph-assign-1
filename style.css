@@ -1,0 +1,66 @@
+body{
+    font-family: 'Nova Round', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    background-image: linear-gradient(to right, white , cyan);
+    
+}
+h1{
+    font-size: 50px;
+}
+
+p{
+    text-align: justify;
+    width: 80%;
+}
+.given-width{
+    width: 50%;
+    padding-left: 15%;
+    margin-top: 5%;  
+}
+
+.given-width img{
+    width: 65%;
+}
+
+.container-flexible{
+    display: flex;
+    margin-bottom: 130px;
+}
+
+.head-color{
+    color: blue;
+}
+
+.ref-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, cyan, blue);
+    padding: 15px 50px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 900;
+}
+
+#vertical-line{
+    width: 50%;
+    margin-right: 20%;
+    padding-left: 10px;
+    border-left: 4px solid;
+    border-image: linear-gradient(cyan, blue);
+    border-image-slice: 1;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.box-item{
+    width: 50%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-bottom: 4%;
+    padding-left: 30px;
+    border-radius: 0px 10px 10px 10px;
+    box-shadow: 5px 5px 20px grey;
+}
