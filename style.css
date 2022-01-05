@@ -19,12 +19,20 @@ h1{
 
 .given-width2{
     width: 100%;
-    margin-top: 3%;  
+    margin-top: 3%;
+    padding-right: 10%;  
     
 }
 
 .given-width img{
     width: 65%;
+    
+}
+
+.given-width2 img{
+    width: 65%;
+      
+    
 }
 
 .container-flexible{
